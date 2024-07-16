@@ -25,3 +25,4 @@ ciao
 wrestling
 mitico
 bomba
+è andata male
