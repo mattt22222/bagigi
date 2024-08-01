@@ -27,3 +27,4 @@ mitico
 bomba
 è andata male
 proving
+amazing
