@@ -24,7 +24,7 @@ cccc
 ciao
 wrestling
 mitico
-bomba
+bombaadfafaf
 è andata male
 proving
 amazing
